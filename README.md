@@ -7,7 +7,7 @@ Welcome to the Tufan Electromobile Team GitHub organization! Here is an overview
 ### STM32F1xx LoRa Library
 - This library facilitates LoRa communication on STM32F1xx microcontrollers.
 
-### ModBus Library
+### STM32F1xx MAX485 based ModBus Library
 - Our ModBus library enables communication using the ModBus protocol for industrial applications.
 
 ### Telemetry and Vehicle Control System Boards
@@ -23,5 +23,5 @@ Welcome to the Tufan Electromobile Team GitHub organization! Here is an overview
 
 These projects are currently being developed with a focus on privacy. However, we may consider open-sourcing some of them in the future to contribute to the wider community and promote collaboration. Stay tuned for updates!
 
-For inquiries or collaboration opportunities, feel free to contact us at [contact@tufanelectromobileteam.com](mailto:contact@tufanelectromobileteam.com).
+For inquiries or collaboration opportunities, feel free to contact us at [tufanefficiency@gmail.com](mailto:tufanefficiency@gmail.com).
 
