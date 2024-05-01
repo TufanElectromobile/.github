@@ -13,7 +13,7 @@ Welcome to the Tufan Electromobile Team GitHub organization! Here is an overview
 ### Telemetry and Vehicle Control System Boards 🚗
 - Development of hardware and software solutions for telemetry and vehicle control systems.
 
-### CANBUS Libraries 🚌
+### STM32 based CANBUS Libraries 🚌
 - Libraries for interfacing with the CANBUS protocol for automotive applications.
 
 ### Desktop Program for Reading and Decrypting Data from USB Port 💻
